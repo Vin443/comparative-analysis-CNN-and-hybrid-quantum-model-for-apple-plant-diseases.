@@ -1,0 +1,1 @@
+# comparative-analysis-CNN-and-hybrid-quantum-model-for-apple-plant-diseases.
